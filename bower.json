@@ -1,0 +1,16 @@
+{
+  "name": "webapp",
+  "private": true,
+  "dependencies": {
+    "jquery": "~2.1.1",
+    "modernizr": "~2.8.1"
+  },
+  "devDependencies": {
+    "mocha": "~2.3.3",
+    "requirejs": "~2.1.20",
+    "gsap": "~1.18.0",
+    "backbone": "~1.2.3",
+    "lodash": "~3.10.1",
+    "jszip": "Stuk/jszip#~2.5.0"
+  }
+}

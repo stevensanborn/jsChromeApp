@@ -1,0 +1,23 @@
+{
+  "name": "Client",
+  "description": "Application",
+  "version": "0.0.0.1",
+  "manifest_version": 2,
+  "icons": {
+    "128": "chrome-icon-128.png"
+  },
+  "app": {
+    "background": {
+      "scripts": ["chrome-background.js"]
+    }
+  },
+   "permissions": [
+    "fullscreen",
+    "unlimitedStorage",
+    "https://brookfield-ipad-content.s3.amazonaws.com/*" 
+    
+  ]
+
+
+
+}
