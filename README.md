@@ -1,6 +1,6 @@
 ## Synopsis
 
-Basic build environment for a Javascript client app that generates a standalone app and a chrome packaged 
+Basic build environment for a Javascript client app that generates a standalone app and a chrome packaged app.
 
 envirnoment uses the following :
 npm
