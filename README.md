@@ -10,7 +10,7 @@ jquery
 backbone
 modernizr
 
-## Code Example
+## Install 
 
 install dependecies:
 
@@ -30,9 +30,5 @@ edit the reloadchrome.sh to give the path if the installed script
 ## Motivation
 
 ease the use of setup and give examples of adding a build environment for developing a chrome packaged apps 
-
-## Installation
-
-npm install
 
 
